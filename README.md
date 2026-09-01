@@ -10,7 +10,7 @@ The project combines responsive interface development with JavaScript-based user
 
 ## 🌐 Live Demo
 
-[View Live Project](YOUR-LIVE-URL)
+[View Live Project](https://serry239-lab.github.io/nutriplan/)
 
 ## 🛠 Technologies Used
 
